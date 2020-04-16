@@ -1,6 +1,16 @@
+
+
 # qual_combustivel
 
-A new Flutter project.
+Flutter project.
+
+Prof. Cristiano
+Faculdade Una Contagem
+Curso Sistemas de Informação
+Aluno
+Ricardo Jose Silva
+
+
 
 ## Getting Started
 
