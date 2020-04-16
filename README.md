@@ -4,11 +4,10 @@
 
 Flutter project.
 
-Prof. Cristiano
-Faculdade Una Contagem
-Curso Sistemas de Informação
-Aluno
-Ricardo Jose Silva
+- Prof. Cristiano
+- Faculdade Una Contagem
+- Curso Sistemas de Informação
+Aluno Ricardo Jose Silva
 
 
 
